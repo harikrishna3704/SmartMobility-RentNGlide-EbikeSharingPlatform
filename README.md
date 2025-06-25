@@ -54,16 +54,16 @@ SAPM project report draft 1.docx
 
 2. Owner Portal
 
-Register/Login
-List Bikes with Availability & Price
-Track Rental History
-Receive Payments
+* Register/Login
+* List Bikes with Availability & Price
+* Track Rental History
+* Receive Payments
 
-Admin
+3. Admin
 
-Monitor Listings
-Review Feedback
-Manage Disputes
+* Monitor Listings
+* Review Feedback
+* Manage Disputes
 
 Diagrams
  
@@ -107,23 +107,22 @@ Diagrams
 
 <img width="390" alt="image" src="https://github.com/user-attachments/assets/cd9eef12-b12b-4dc3-a30a-4765c43d48e8" />
 
-🧪 Key Functional Specs
+🧪 Key Functional Specs ( Feature & Description )
 
-Feature	                   Description
-Bike Owner Registration	   Capture and validate owner and vehicle details
-Bike Listing	             Owners provide availability, price, and location for listing
-Search & Rent	             Customers browse bikes based on geo-location and preferences
-Payment Gateway	           Secure payment with confirmation and transaction logging
-Rewards System	           Incentivizes responsible riding and timely returns
-Feedback System	           Allows reviews to improve platform trust and quality
+1. Bike Owner Registration	- Capture and validate owner and vehicle details
+2. Bike Listing - Owners provide availability, price, and location for listing
+3. Search & Rent - Customers browse bikes based on geo-location and preferences
+4. Payment Gateway - Secure payment with confirmation and transaction logging
+5. Rewards System - Incentivizes responsible riding and timely returns
+6. Feedback System - Allows reviews to improve platform trust and quality
 
 👨‍💻 My Contributions
 
-Designed and implemented Class Diagrams, Use Cases, and Sequence Diagrams
-Developed UI Mockups and Flow Prototypes for customer and owner journeys
-Worked on Functional Specifications and Pseudo-code Design
-Created Database Design and structured data dictionaries
-Contributed to Final Presentation and Report Compilation
+* Designed and implemented Class Diagrams, Use Cases, and Sequence Diagrams
+* Developed UI Mockups and Flow Prototypes for customer and owner journeys
+* Worked on Functional Specifications and Pseudo-code Design
+* Created Database Design and structured data dictionaries
+* Contributed to Final Presentation and Report Compilation
 
 🗃️ Data Design
 
