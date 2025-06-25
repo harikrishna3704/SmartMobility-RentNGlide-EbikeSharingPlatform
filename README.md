@@ -128,13 +128,6 @@ ___
 
 ---
 
-## **🗃️ Data Design**
-
-Structured database with relational design for users, bikes, rentals, and payments.
-Class diagrams map directly to object-oriented schema design for implementation readiness.
-
----
-
 ## **⏱️ Timeline & Deliverables**
 
 Our team followed a milestone-based weekly plan, from ideation to final reporting. Highlights include:
