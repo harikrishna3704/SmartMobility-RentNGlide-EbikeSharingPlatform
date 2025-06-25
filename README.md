@@ -1,5 +1,9 @@
 # SmartMobility-RentNGlide-EbikeSharingPlatform
 
+A community-driven electric bike rental platform enabling users to list, locate, and rent bikes seamlessly through a feature-rich, user-centric web interface.
+
+___
+
 ## **🧾 **Overview****
 
 Rent N’Glide is a community-driven electric bike rental platform that connects local riders with electric bike owners for affordable and eco-friendly commuting. Built as part of our System Analysis and Project Management course at The University of Texas at Dallas, the platform is designed to improve short-distance transportation while promoting sustainable practices and community collaboration.
