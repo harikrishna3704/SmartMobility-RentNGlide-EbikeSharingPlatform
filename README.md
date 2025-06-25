@@ -17,29 +17,20 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 **🛠 Technologies Used**
 
 1. Microsoft Excel – Data dictionary & early planning
-   
-2. Lucidchart / Draw.io – Diagrams (Use Case, Class, Sequence, Context, BPMN)
-
+2. Lucidchart / Draw.io – Diagrams (Use Case, Class, Sequence, Context, BPMN
 3. PowerPoint – Prototyping UI flows
-
 4. UML Modeling – Use Case, Sequence, Class diagrams
-
 5. Database – ER Diagram and Class-based DB Design
 
-📦 Files Included
+**📦 Files Included**
 
-Visual presentation of the platform, UI frames, and architecture
+**Visual presentation of the platform, UI frames, and architecture** - [SAPM-Group 22 - Final Draft.pptx](https://github.com/user-attachments/files/20897638/SAPM-Group.22.-.Final.Draft.pptx)
 
-[SAPM-Group 22 - Final Draft.pptx](https://github.com/user-attachments/files/20897638/SAPM-Group.22.-.Final.Draft.pptx)
+**Complete report including business analysis, diagrams, use cases, database design, and functional specifications** - [SAPM project report draft 1 (1).docx](https://github.com/user-attachments/files/20897643/SAPM.project.report.draft.1.1.docx)
 
+**🧩 System Features & Flow**
 
-Complete report including business analysis, diagrams, use cases, database design, and functional specifications
-
-[SAPM project report draft 1 (1).docx](https://github.com/user-attachments/files/20897643/SAPM.project.report.draft.1.1.docx)
-
-🧩 System Features & Flow
-
-1. Customer Portal
+**1. Customer Portal**
 
 * Register/Login
 * Locate & Rent Bikes
@@ -49,42 +40,42 @@ Complete report including business analysis, diagrams, use cases, database desig
 * Submit Feedback
 * Earn Rewards
 
-2. Owner Portal
+**2. Owner Portal**
 
 * Register/Login
 * List Bikes with Availability & Price
 * Track Rental History
 * Receive Payments
 
-3. Admin
+**3. Admin**
 
 * Monitor Listings
 * Review Feedback
 * Manage Disputes
 
-Diagrams
+**Diagrams**
  
-✅ Use Case Diagram
+**✅ Use Case Diagram**
 
 <img width="681" alt="image" src="https://github.com/user-attachments/assets/547a28d8-541a-4ccc-a004-c066a672ccc3" />
 
-✅ BPMN Diagram
+**✅ BPMN Diagram**
 
 <img width="749" alt="image" src="https://github.com/user-attachments/assets/4c5aabb2-2a52-426b-897a-b46486378009" />
 
-✅ Context Diagram
+**✅ Context Diagram**
 
 <img width="682" alt="image" src="https://github.com/user-attachments/assets/5833d1ac-adec-4994-9229-b570cabda337" />
 
-✅ Sequence Diagram
+**✅ Sequence Diagram**
 
 <img width="626" alt="image" src="https://github.com/user-attachments/assets/3f45ad26-cd74-4b73-8d01-71c45019dcf1" />
 
-✅ Class Diagram
+**✅ Class Diagram**
 
 ![image](https://github.com/user-attachments/assets/c66de3eb-dea3-4e4c-b516-102470563ed8)
 
-✅ Interface Mockups
+**✅ Interface Mockups**
 
 <img width="326" alt="image" src="https://github.com/user-attachments/assets/b4df4f54-32f1-4d5f-8bff-fab77968233f" />
 
@@ -104,16 +95,16 @@ Diagrams
 
 <img width="390" alt="image" src="https://github.com/user-attachments/assets/cd9eef12-b12b-4dc3-a30a-4765c43d48e8" />
 
-🧪 Key Functional Specs ( Feature & Description )
+**🧪 Key Functional Specs ( Feature & Description )**
 
-1. Bike Owner Registration	- Capture and validate owner and vehicle details
-2. Bike Listing - Owners provide availability, price, and location for listing
-3. Search & Rent - Customers browse bikes based on geo-location and preferences
-4. Payment Gateway - Secure payment with confirmation and transaction logging
-5. Rewards System - Incentivizes responsible riding and timely returns
-6. Feedback System - Allows reviews to improve platform trust and quality
+1. **Bike Owner Registration	**- Capture and validate owner and vehicle details
+2. **Bike Listing **- Owners provide availability, price, and location for listing
+3. **Search & Rent** - Customers browse bikes based on geo-location and preferences
+4.** Payment Gateway** - Secure payment with confirmation and transaction logging
+5. **Rewards System** - Incentivizes responsible riding and timely returns
+6. **Feedback System** - Allows reviews to improve platform trust and quality
 
-👨‍💻 My Contributions
+**👨‍💻 My Contributions**
 
 * Designed and implemented Class Diagrams, Use Cases, and Sequence Diagrams
 * Developed UI Mockups and Flow Prototypes for customer and owner journeys
@@ -121,12 +112,12 @@ Diagrams
 * Created Database Design and structured data dictionaries
 * Contributed to Final Presentation and Report Compilation
 
-🗃️ Data Design
+**🗃️ Data Design**
 
 Structured database with relational design for users, bikes, rentals, and payments.
 Class diagrams map directly to object-oriented schema design for implementation readiness.
 
-⏱️ Timeline & Deliverables
+**⏱️ Timeline & Deliverables**
 
 Our team followed a milestone-based weekly plan, from ideation to final reporting. Highlights include:
 
@@ -156,7 +147,7 @@ Proofreading, preparing the final presentation, and submitting all deliverables.
 
 Details available in the Minutes of Meeting section of the report.
 
-📊 Final Takeaways
+**📊 Final Takeaways**
 
 The Rent N’Glide model demonstrates a scalable and sustainable mobility solution.
 Electric bike sharing fosters environmental responsibility and community connection.
