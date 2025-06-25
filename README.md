@@ -97,10 +97,10 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 
 **🧪 Key Functional Specs ( Feature & Description )**
 
-1. **Bike Owner Registration	**- Capture and validate owner and vehicle details
-2. **Bike Listing **- Owners provide availability, price, and location for listing
+1. **Bike Owner Registration** - Capture and validate owner and vehicle details
+2. **Bike Listing** - Owners provide availability, price, and location for listing
 3. **Search & Rent** - Customers browse bikes based on geo-location and preferences
-4.** Payment Gateway** - Secure payment with confirmation and transaction logging
+4. **Payment Gateway** - Secure payment with confirmation and transaction logging
 5. **Rewards System** - Incentivizes responsible riding and timely returns
 6. **Feedback System** - Allows reviews to improve platform trust and quality
 
@@ -121,29 +121,21 @@ Class diagrams map directly to object-oriented schema design for implementation 
 
 Our team followed a milestone-based weekly plan, from ideation to final reporting. Highlights include:
 
-Milestone 1:
-Team formation, project idea brainstorming, and initial problem definition.
+Milestone 1: Team formation, project idea brainstorming, and initial problem definition.
 
-Milestone 2:
-Finalizing the project topic (Rent N’Glide) and drafting the problem statement and objectives.
+Milestone 2: Finalizing the project topic (Rent N’Glide) and drafting the problem statement and objectives.
 
-Milestone 3:
-Designing the Context Diagram, identifying system actors, and preparing the Business Process Model (BPMN).
+Milestone 3: Designing the Context Diagram, identifying system actors, and preparing the Business Process Model (BPMN).
 
-Milestone 4:
-Creating the Use Case Diagram, Sequence Diagram, and Class Diagram. Writing detailed Use Case Descriptions and the Data Dictionary.
+Milestone 4: Creating the Use Case Diagram, Sequence Diagram, and Class Diagram. Writing detailed Use Case Descriptions and the Data Dictionary.
 
-Milestone 5:
-Designing the Database Schema and identifying constraints. Drafting Object Behavior Models.
+Milestone 5: Designing the Database Schema and identifying constraints. Drafting Object Behavior Models.
 
-Milestone 6:
-Documenting Functional Specifications, preparing Interface Designs, and prototyping mockups.
+Milestone 6: Documenting Functional Specifications, preparing Interface Designs, and prototyping mockups.
 
-Milestone 7:
-Finalizing the Class Diagram, building the HTML mockups, and compiling the full Project Report.
+Milestone 7: Finalizing the Class Diagram, building the HTML mockups, and compiling the full Project Report.
 
-Milestone 8:
-Proofreading, preparing the final presentation, and submitting all deliverables.
+Milestone 8: Proofreading, preparing the final presentation, and submitting all deliverables.
 
 Details available in the Minutes of Meeting section of the report.
 
