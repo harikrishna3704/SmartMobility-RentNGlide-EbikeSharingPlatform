@@ -34,11 +34,12 @@ Empower bike owners to monetize idle assets, fostering community-based shared mo
 
 Visual presentation of the platform, UI frames, and architecture
 
-SAPM-Group 22 - Final Draft.pptx
+[SAPM-Group 22 - Final Draft.pptx](https://github.com/user-attachments/files/20897638/SAPM-Group.22.-.Final.Draft.pptx)
+
 
 Complete report including business analysis, diagrams, use cases, database design, and functional specifications
 
-SAPM project report draft 1.docx
+[SAPM project report draft 1 (1).docx](https://github.com/user-attachments/files/20897643/SAPM.project.report.draft.1.1.docx)
 
 🧩 System Features & Flow
 
