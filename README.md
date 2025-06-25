@@ -20,31 +20,39 @@ Empower bike owners to monetize idle assets, fostering community-based shared mo
 
 🛠 Technologies Used
 
-Microsoft Excel – Data dictionary & early planning
-Lucidchart / Draw.io – Diagrams (Use Case, Class, Sequence, Context, BPMN)
-PowerPoint – Prototyping UI flows
-UML Modeling – Use Case, Sequence, Class diagrams
-Database – ER Diagram and Class-based DB Design
+1. Microsoft Excel – Data dictionary & early planning
+   
+2. Lucidchart / Draw.io – Diagrams (Use Case, Class, Sequence, Context, BPMN)
+
+3. PowerPoint – Prototyping UI flows
+
+4. UML Modeling – Use Case, Sequence, Class diagrams
+
+5. Database – ER Diagram and Class-based DB Design
 
 📦 Files Included
 
-SAPM-Group 22 - Final Draft.pptx – Visual presentation of the platform, UI frames, and architecture
-SAPM project report draft 1.docx – Complete report including business analysis, diagrams, use cases, database design, and functional specifications
+Visual presentation of the platform, UI frames, and architecture
+
+SAPM-Group 22 - Final Draft.pptx
+
+Complete report including business analysis, diagrams, use cases, database design, and functional specifications
+
+SAPM project report draft 1.docx
 
 🧩 System Features & Flow
 
-Customer Portal
+1. Customer Portal
 
-Register/Login
-Locate & Rent Bikes
-View Available Bikes on Map
-Make Payments
-Return Bikes
-Submit Feedback
-Earn Rewards
+* Register/Login
+* Locate & Rent Bikes
+* View Available Bikes on Map
+* Make Payments
+* Return Bikes
+* Submit Feedback
+* Earn Rewards
 
-
-Owner Portal
+2. Owner Portal
 
 Register/Login
 List Bikes with Availability & Price
