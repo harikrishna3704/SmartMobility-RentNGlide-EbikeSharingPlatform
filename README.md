@@ -6,6 +6,7 @@ Rent N’Glide is a community-driven electric bike rental platform that connects
 
 This repository outlines the project problem, objectives, models, diagrams, technical specs, and more.
 
+
 **🎯 Objectives**
 
 * Develop a user-friendly interface (web/app) for seamless renting and listing of electric bikes.
@@ -13,6 +14,7 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 * Facilitate a secure and smooth payment process for both renters and bike owners.
 * Encourage responsible riding behavior by introducing a reward-based system.
 * Empower bike owners to monetize idle assets, fostering community-based shared mobility.
+
 
 **🛠 Technologies Used**
 
@@ -22,11 +24,13 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 4. UML Modeling – Use Case, Sequence, Class diagrams
 5. Database – ER Diagram and Class-based DB Design
 
+
 **📦 Files Included**
 
 **Visual presentation of the platform, UI frames, and architecture** - [SAPM-Group 22 - Final Draft.pptx](https://github.com/user-attachments/files/20897638/SAPM-Group.22.-.Final.Draft.pptx)
 
 **Complete report including business analysis, diagrams, use cases, database design, and functional specifications** - [SAPM project report draft 1 (1).docx](https://github.com/user-attachments/files/20897643/SAPM.project.report.draft.1.1.docx)
+
 
 **🧩 System Features & Flow**
 
@@ -52,6 +56,7 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 * Monitor Listings
 * Review Feedback
 * Manage Disputes
+
 
 **Diagrams**
  
@@ -95,14 +100,16 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 
 <img width="390" alt="image" src="https://github.com/user-attachments/assets/cd9eef12-b12b-4dc3-a30a-4765c43d48e8" />
 
+
 **🧪 Key Functional Specs ( Feature & Description )**
 
-1. **Bike Owner Registration** - Capture and validate owner and vehicle details
-2. **Bike Listing** - Owners provide availability, price, and location for listing
-3. **Search & Rent** - Customers browse bikes based on geo-location and preferences
-4. **Payment Gateway** - Secure payment with confirmation and transaction logging
-5. **Rewards System** - Incentivizes responsible riding and timely returns
-6. **Feedback System** - Allows reviews to improve platform trust and quality
+1. Bike Owner Registration - Capture and validate owner and vehicle details
+2. Bike Listing - Owners provide availability, price, and location for listing
+3. Search & Rent - Customers browse bikes based on geo-location and preferences
+4. Payment Gateway - Secure payment with confirmation and transaction logging
+5. Rewards System - Incentivizes responsible riding and timely returns
+6. Feedback System - Allows reviews to improve platform trust and quality
+
 
 **👨‍💻 My Contributions**
 
@@ -127,7 +134,8 @@ Milestone 2: Finalizing the project topic (Rent N’Glide) and drafting the prob
 
 Milestone 3: Designing the Context Diagram, identifying system actors, and preparing the Business Process Model (BPMN).
 
-Milestone 4: Creating the Use Case Diagram, Sequence Diagram, and Class Diagram. Writing detailed Use Case Descriptions and the Data Dictionary.
+Milestone 4: Creating the Use Case Diagram, Sequence Diagram, and Class Diagram. 
+Writing detailed Use Case Descriptions and the Data Dictionary.
 
 Milestone 5: Designing the Database Schema and identifying constraints. Drafting Object Behavior Models.
 
