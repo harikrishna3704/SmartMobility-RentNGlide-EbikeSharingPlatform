@@ -7,6 +7,7 @@ Rent N’Glide is a community-driven electric bike rental platform that connects
 This repository outlines the project problem, objectives, models, diagrams, technical specs, and more.
 
 
+
 **🎯 Objectives**
 
 * Develop a user-friendly interface (web/app) for seamless renting and listing of electric bikes.
@@ -14,6 +15,7 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 * Facilitate a secure and smooth payment process for both renters and bike owners.
 * Encourage responsible riding behavior by introducing a reward-based system.
 * Empower bike owners to monetize idle assets, fostering community-based shared mobility.
+
 
 
 **🛠 Technologies Used**
@@ -25,11 +27,13 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 5. Database – ER Diagram and Class-based DB Design
 
 
+
 **📦 Files Included**
 
 **Visual presentation of the platform, UI frames, and architecture** - [SAPM-Group 22 - Final Draft.pptx](https://github.com/user-attachments/files/20897638/SAPM-Group.22.-.Final.Draft.pptx)
 
 **Complete report including business analysis, diagrams, use cases, database design, and functional specifications** - [SAPM project report draft 1 (1).docx](https://github.com/user-attachments/files/20897643/SAPM.project.report.draft.1.1.docx)
+
 
 
 **🧩 System Features & Flow**
@@ -56,6 +60,7 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 * Monitor Listings
 * Review Feedback
 * Manage Disputes
+
 
 
 **Diagrams**
@@ -101,6 +106,7 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 <img width="390" alt="image" src="https://github.com/user-attachments/assets/cd9eef12-b12b-4dc3-a30a-4765c43d48e8" />
 
 
+
 **🧪 Key Functional Specs ( Feature & Description )**
 
 1. Bike Owner Registration - Capture and validate owner and vehicle details
@@ -111,6 +117,7 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 6. Feedback System - Allows reviews to improve platform trust and quality
 
 
+
 **👨‍💻 My Contributions**
 
 * Designed and implemented Class Diagrams, Use Cases, and Sequence Diagrams
@@ -119,10 +126,14 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 * Created Database Design and structured data dictionaries
 * Contributed to Final Presentation and Report Compilation
 
+
+
 **🗃️ Data Design**
 
 Structured database with relational design for users, bikes, rentals, and payments.
 Class diagrams map directly to object-oriented schema design for implementation readiness.
+
+
 
 **⏱️ Timeline & Deliverables**
 
@@ -146,6 +157,8 @@ Milestone 7: Finalizing the Class Diagram, building the HTML mockups, and compil
 Milestone 8: Proofreading, preparing the final presentation, and submitting all deliverables.
 
 Details available in the Minutes of Meeting section of the report.
+
+
 
 **📊 Final Takeaways**
 
