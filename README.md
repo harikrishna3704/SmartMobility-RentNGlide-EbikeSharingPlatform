@@ -6,9 +6,9 @@ Rent N’Glide is a community-driven electric bike rental platform that connects
 
 This repository outlines the project problem, objectives, models, diagrams, technical specs, and more.
 
+___
 
-
-**🎯 Objectives**
+## **🎯 Objectives**
 
 * Develop a user-friendly interface (web/app) for seamless renting and listing of electric bikes.
 * Enable real-time bike availability tracking across various localities.
@@ -16,9 +16,9 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 * Encourage responsible riding behavior by introducing a reward-based system.
 * Empower bike owners to monetize idle assets, fostering community-based shared mobility.
 
+---
 
-
-**🛠 Technologies Used**
+## **🛠 Technologies Used**
 
 1. Microsoft Excel – Data dictionary & early planning
 2. Lucidchart / Draw.io – Diagrams (Use Case, Class, Sequence, Context, BPMN
@@ -26,17 +26,17 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 4. UML Modeling – Use Case, Sequence, Class diagrams
 5. Database – ER Diagram and Class-based DB Design
 
+---
 
-
-**📦 Files Included**
+## **📦 Files Included**
 
 **Visual presentation of the platform, UI frames, and architecture** - [SAPM-Group 22 - Final Draft.pptx](https://github.com/user-attachments/files/20897638/SAPM-Group.22.-.Final.Draft.pptx)
 
 **Complete report including business analysis, diagrams, use cases, database design, and functional specifications** - [SAPM project report draft 1 (1).docx](https://github.com/user-attachments/files/20897643/SAPM.project.report.draft.1.1.docx)
 
+---
 
-
-**🧩 System Features & Flow**
+## **🧩 System Features & Flow**
 
 **1. Customer Portal**
 
@@ -61,9 +61,9 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 * Review Feedback
 * Manage Disputes
 
+---
 
-
-**Diagrams**
+## **📐Diagrams**
  
 **✅ Use Case Diagram**
 
@@ -105,9 +105,9 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 
 <img width="390" alt="image" src="https://github.com/user-attachments/assets/cd9eef12-b12b-4dc3-a30a-4765c43d48e8" />
 
+---
 
-
-**🧪 Key Functional Specs ( Feature & Description )**
+## **🧪 Key Functional Specs ( Feature & Description )**
 
 1. Bike Owner Registration - Capture and validate owner and vehicle details
 2. Bike Listing - Owners provide availability, price, and location for listing
@@ -116,9 +116,9 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 5. Rewards System - Incentivizes responsible riding and timely returns
 6. Feedback System - Allows reviews to improve platform trust and quality
 
+---
 
-
-**👨‍💻 My Contributions**
+## **👨‍💻 My Contributions**
 
 * Designed and implemented Class Diagrams, Use Cases, and Sequence Diagrams
 * Developed UI Mockups and Flow Prototypes for customer and owner journeys
@@ -126,16 +126,16 @@ This repository outlines the project problem, objectives, models, diagrams, tech
 * Created Database Design and structured data dictionaries
 * Contributed to Final Presentation and Report Compilation
 
+---
 
-
-**🗃️ Data Design**
+## **🗃️ Data Design**
 
 Structured database with relational design for users, bikes, rentals, and payments.
 Class diagrams map directly to object-oriented schema design for implementation readiness.
 
+---
 
-
-**⏱️ Timeline & Deliverables**
+## **⏱️ Timeline & Deliverables**
 
 Our team followed a milestone-based weekly plan, from ideation to final reporting. Highlights include:
 
@@ -158,9 +158,9 @@ Milestone 8: Proofreading, preparing the final presentation, and submitting all 
 
 Details available in the Minutes of Meeting section of the report.
 
+---
 
-
-**📊 Final Takeaways**
+## **📊 Final Takeaways**
 
 The Rent N’Glide model demonstrates a scalable and sustainable mobility solution.
 Electric bike sharing fosters environmental responsibility and community connection.
